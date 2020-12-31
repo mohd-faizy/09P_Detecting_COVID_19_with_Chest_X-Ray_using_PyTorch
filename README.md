@@ -13,6 +13,12 @@
 
 # __Detecting COVID 19 with Chest X-Ray using PyTorch__
 
+<p align='center'>
+  <a href="#">
+    <img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/09_proj.png?raw=true' alt="head_image">
+  </a>
+</p>
+
 This repository is a case study for detecting COVID-19 with Chest X-Ray using PyTorch from COVID-19 Radiography Dataset on Kaggle
 
 ## __Dataset__
@@ -85,6 +91,7 @@ Open latest version of notebook in __Jupyter Notebook__.
     <img src='https://github.com/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch/blob/master/proj_png/02_pred.png?raw=true' alt="head_image">
   </a>
 </p>
+
 
 ### Connect with me:
 
